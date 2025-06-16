@@ -1,0 +1,25 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de entorno
+.env
+
+# Build y salida
+/out/
+/target/
+/build/
+/bin/
+
+# Archivos temporales
+*.log
+*.class
+*.tmp
+
+# Configuración de IDE
+.idea/
+*.iml
+.vscode/
+
+# Dependencias locales
+/lib/
